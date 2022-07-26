@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rushtirajoli19
+- 👋 Hi, I’m Rushti Rajoli
 - 👀 I’m interested in Machine Learning & Data Science
 - 🌱 I’m fresh graduated student
 - 💞️ I’m looking for ML Engineer roles
